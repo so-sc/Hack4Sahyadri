@@ -11,7 +11,7 @@ Maybe you are trying to solve a small problem or a bigger one. We got you covere
 #### 1. Academics
 Solutions that can make student life easier through simplifying academic problems and management in it.  
 #### 2. Documentation  
-Solutions to cut down the process legth in getting things done through paper works in sahyadri.  
+Solutions to cut down the process length in getting things done through paper works in sahyadri.  
 #### 3. Event Management  
 Solutions to simplify event management in sahyadri. Starting from requesting permission for the event to managing user registrations.  
 #### 4. Placement      
